@@ -8,6 +8,10 @@ To design the topology of the university network for our Mini project-2 during s
 - [Jitendra Singh](https://github.com/jet0499)
 - [Vivek Goyal](https://github.com/vivek-goyal12)
 
+## Contacts
+Feel free to contact us if you have any further queries, at:
+<jitendra.singh_cs18@gla.ac.in> and <vivek.goyal_cs18@gla.ac.in> .
+
 # Project Mentor:
 Mr. Pankaj Kapoor
 
