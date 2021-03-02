@@ -8,6 +8,8 @@ To design the topology of the university network for our Mini project-2 during s
 - [Jitendra Singh](https://github.com/jet0499)
 - [Vivek Goyal](https://github.com/vivek-goyal12)
 
+# Project Mentor:
+Mr. Pankaj Kapoor
 
 ## Project Meeting:-
 Date - 26/02/2021
